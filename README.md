@@ -2,7 +2,7 @@
 * Created a model to predict if a track is going to be a hit or not, using the track's various attributes.
 * Using data through 2010-2019s from "The Spotify Hit Predictor Dataset" from Kaggle:  https://www.kaggle.com/theoverman/the-spotify-hit-predictor-dataset?select=dataset-of-10s.csv
 * Conducted data cleaning and Exploratory Data Analysis, before getting the features ready for model building.
-* Logistic Regression, Decision Trees, Regression Trees and Support Vector Machines were fitted and compared using AUC ROC curves and scores.
+* Logistic Regression, Decision Trees, Random Forest and Support Vector Machines were fitted and compared using AUC ROC curves and scores.
 * Used Random Search CV and Grid Search CV to find the optimum parameters for the best model out of the above mentioned four.
 
 ##  Resources and Code
